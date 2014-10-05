@@ -1,5 +1,6 @@
 FashionScalaNovel
 =================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Kuchitama/FashionScalaNovel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ファッションScala小説
 
 主人公：コザケ シンイチ
